@@ -1,15 +1,11 @@
 
-# SuperQRCode
+# SuperRocket
 
-SuperQRCode is a very Efficient app
-
-Support Generate QRCode
-
-Support Generate QRCode with center logo
+This is a very Efficient app
 
 Support Scan QRCode
 
-Support fully scan history
+Support Net Diagnosis
 
 Hope this app can help you
 
