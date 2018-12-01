@@ -13,4 +13,4 @@ Hope this app can help you
 If you have any problem
 Please contact us 
 
-supercodeapp@gmail.com
+wangyu770372@163.com
